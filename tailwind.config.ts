@@ -57,6 +57,15 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        kpi: {
+          green: "hsl(var(--kpi-green))",
+          red: "hsl(var(--kpi-red))",
+          yellow: "hsl(var(--kpi-yellow))",
+          blue: "hsl(var(--kpi-blue))",
+          purple: "hsl(var(--kpi-purple))",
+          cyan: "hsl(var(--kpi-cyan))",
+          orange: "hsl(var(--kpi-orange))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
